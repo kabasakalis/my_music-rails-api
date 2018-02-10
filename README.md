@@ -1,11 +1,11 @@
-[![Build Status](https://travis-ci.org/drumaddict/mymusic-rails-api.svg?branch=master)](https://travis-ci.org/drumaddict/mymusic-rails-api)
+[![Build Status](https://travis-ci.org/drumaddict/mymusic-rails-api.svg?branch=master)](https://travis-ci.org/kabasakalis/mymusic-rails-api)
 [![Code Climate](https://codeclimate.com/github/drumaddict/mymusic-rails-api/badges/gpa.svg)](https://codeclimate.com/github/drumaddict/mymusic-rails-api)
 [![Test Coverage](https://codeclimate.com/github/drumaddict/mymusic-rails-api/badges/coverage.svg)](https://codeclimate.com/github/drumaddict/mymusic-rails-api/coverage)
 [![Issue Count](https://codeclimate.com/github/drumaddict/mymusic-rails-api/badges/issue_count.svg)](https://codeclimate.com/github/drumaddict/mymusic-rails-api)
 
 # Rails 5 API Demo
-![My music](https://github.com/drumaddict/mymusic-rails-api/blob/master/mymusic.png)
-![My music](https://github.com/drumaddict/mymusic-rails-api/blob/master/docs_screenshot.png)
+![My music](https://github.com/kabasakalis/mymusic-rails-api/blob/master/mymusic.png)
+![My music](https://github.com/kabasakalis/mymusic-rails-api/blob/master/docs_screenshot.png)
 ----
 ### Overview
 This is a Rails 5 API demo exploring best practices.The database schema emulates a very simple Spotify-like Music Service.
