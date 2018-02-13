@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/kabasakalis/my_music-rails-api.svg?branch=master)](https://travis-ci.org/kabasakalis/my_music-rails-api)
 [![Code Climate](https://codeclimate.com/github/kabasakalis/my_music-rails-api/badges/gpa.svg)](https://codeclimate.com/github/kabasakalis/my_music-rails-api)
 [![Test Coverage](https://codeclimate.com/github/kabasakalis/my_music-rails-api/badges/coverage.svg)](https://codeclimate.com/github/kabasakalis/my_music-rails-api/coverage)
-[![Issue Count](https://codeclimate.com/github/kabasakalis/my_music-rails-api/badges/issue_count.svg)](https://codeclimate.com/github/kabasakalis/my_music-rails-api)
 
 # Rails 5 API Demo
 ![My music](https://github.com/kabasakalis/my_music-rails-api/blob/master/mymusic.png)
