@@ -1,11 +1,11 @@
-[![Build Status](https://travis-ci.org/kabasakalis/mymusic-rails-API.svg?branch=master)](https://travis-ci.org/kabasakalis/mymusic-rails-API)
-[![Code Climate](https://codeclimate.com/github/kabasakalis/mymusic-rails-API/badges/gpa.svg)](https://codeclimate.com/github/kabasakalis/mymusic-rails-API)
-[![Test Coverage](https://codeclimate.com/github/kabasakalis/mymusic-rails-API/badges/coverage.svg)](https://codeclimate.com/github/kabasakalis/mymusic-rails-API/coverage)
-[![Issue Count](https://codeclimate.com/github/kabasakalis/mymusic-rails-API/badges/issue_count.svg)](https://codeclimate.com/github/kabasakalis/mymusic-rails-API)
+[![Build Status](https://travis-ci.org/kabasakalis/my_music-rails-api.svg?branch=master)](https://travis-ci.org/kabasakalis/my_music-rails-api)
+[![Code Climate](https://codeclimate.com/github/kabasakalis/my_music-rails-api/badges/gpa.svg)](https://codeclimate.com/github/kabasakalis/my_music-rails-api)
+[![Test Coverage](https://codeclimate.com/github/kabasakalis/my_music-rails-api/badges/coverage.svg)](https://codeclimate.com/github/kabasakalis/my_music-rails-api/coverage)
+[![Issue Count](https://codeclimate.com/github/kabasakalis/my_music-rails-api/badges/issue_count.svg)](https://codeclimate.com/github/kabasakalis/my_music-rails-api)
 
 # Rails 5 API Demo
-![My music](https://github.com/kabasakalis/mymusic-rails-API/blob/master/mymusic.png)
-![My music](https://github.com/kabasakalis/mymusic-rails-API/blob/master/docs_screenshot.png)
+![My music](https://github.com/kabasakalis/my_music-rails-api/blob/master/mymusic.png)
+![My music](https://github.com/kabasakalis/my_music-rails-api/blob/master/docs_screenshot.png)
 ----
 ### Overview
 This is a Rails 5 API demo exploring best practices.The database schema emulates a very simple Spotify-like Music Service.
@@ -29,7 +29,7 @@ Please read the instructions in the lower left on how to authenticate.
 
 ## Elastic Search Integration (elastic-search branch)
 
-![Elastic Search](https://github.com/kabasakalis/mymusic-rails-API/blob/master/es.png)
+![Elastic Search](https://github.com/kabasakalis/my_music-rails-api/blob/master/es.png)
 
 * Simple integration with multiple models per index supported.
 `app/models/elastic_search/index_manager.rb` : several helper functions to manage indices and import records.
